@@ -1,5 +1,5 @@
 # build from ubuntu 14.04, matching host
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 MAINTAINER Kyle F <kylef@lab41.org>
 
 # configure headless install
